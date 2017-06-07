@@ -1,2 +1,2 @@
-# image-search
-Image search using google custom search api
+# Starter kit 
+Starter kit for node app
